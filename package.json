@@ -1,0 +1,28 @@
+{
+  "name": "basic-node-readme-file",
+  "version": "1.0.0",
+  "description": "Learning how to use node to create a README.md file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris31roc/basic-node-readme.git"
+  },
+  "keywords": [
+    "basic",
+    "node",
+    "readme",
+    "generator"
+  ],
+  "author": "Christopher Hicks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chris31roc/basic-node-readme/issues"
+  },
+  "homepage": "https://github.com/chris31roc/basic-node-readme#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
