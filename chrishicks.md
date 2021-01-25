@@ -1,4 +1,4 @@
-## Christopher Hicks
+## Chris Hicks
     
     * [github](#github)
     * [email](#email)
@@ -10,8 +10,8 @@
     # E-Mail
     chris31roc@yahoo.com
     #### Title
-    README Generator
+    README Generator for Beginners
     # Description
-    The best generator for beginners
+    Learning to use node by creating a README generator
     # Reason
-    To show people how to create a README file by using node
+    To better myself in the basics of node

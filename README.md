@@ -28,4 +28,5 @@
     The reason for this project was to get myself acclimated to using node and learning how to install npm packages like inquirer. Also I found that learning to do such a task helped me breakdown node and figure out what I'm looking at in the back end of programming!
     
     # Link to video
+    [VIEW MY WORK HERE!](https://drive.google.com/file/d/1XlS-f8fKlUMUWGejv79oix7Fho2qweE3/view)
     
